@@ -17,13 +17,10 @@
   },
   "homepage": "https://github.com/scala-pool/ui#readme",
   "dependencies": {
-    "args-parse": "^0.0.1",
     "args-parser": "^1.3.0",
     "fastify": "^3.27.0",
     "fastify-compress": "^4.0.1",
     "fastify-static": "^4.5.0",
-    "http": "^0.0.1-security",
     "path": "^0.12.7",
-    "url": "^0.11.0"
   }
 }
